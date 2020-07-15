@@ -13,7 +13,7 @@ namespace Messanger_for_console
         {
             try
             {
-                client = new TcpClient(Program.host, 8888);
+                client = new TcpClient(Program.host, Program.port);
                 
                 string message = Program.name + ": " + mess;
                 byte[] data = Encoding.UTF8.GetBytes(message);

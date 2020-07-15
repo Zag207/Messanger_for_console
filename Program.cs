@@ -17,8 +17,7 @@ namespace Messanger_for_console
         public static string host;
         public static string hostName;
         public static string name;
-        public static int portServerClient = 8080;
-        public static int portClientServer = 8888;
+        public static int port = 8080;
         
         static void Main(string[] args)
         {
@@ -41,7 +40,7 @@ namespace Messanger_for_console
                 using (var sr = new StreamReader("nameOp.txt", Encoding.UTF8))
                 {
                     hostName = sr.ReadToEnd();
-                    
+
                     if (hostName.Length == 0)
                     {
                         Console.WriteLine("Файл пуст");

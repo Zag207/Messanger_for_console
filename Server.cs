@@ -12,7 +12,7 @@ namespace Messanger_for_console
 
         public static void RecieveMessage()
         {
-            server = new TcpListener(IPAddress.Parse(Program.YourIp), 8080);
+            server = new TcpListener(IPAddress.Parse(Program.YourIp), Program.port);
             server.Start();
 
             byte[] data = new byte[256];

@@ -10,3 +10,4 @@ C:\Users\danil\source\repos\Messanger_for_console\Messanger_for_console\obj\Rele
 C:\Users\danil\source\repos\Messanger_for_console\Messanger_for_console\obj\Release\netcoreapp3.1\Messanger_for_console.dll
 C:\Users\danil\source\repos\Messanger_for_console\Messanger_for_console\obj\Release\netcoreapp3.1\Messanger_for_console.pdb
 C:\Users\danil\source\repos\Messanger_for_console\Messanger_for_console\obj\Release\netcoreapp3.1\Messanger_for_console.genruntimeconfig.cache
+C:\Users\danil\source\repos\Messanger_for_console\Messanger_for_console\obj\Release\netcoreapp3.1\Messanger_for_console.csprojAssemblyReference.cache
