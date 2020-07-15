@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9fpaHHgPtSi/cVbgwdQjr2DB4+Hy5ucaMjntCQG9PJWI8g48miYhnNrrSLmqTqIXWKAbzWvb0YJ3QJQqmNUVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\Messanger_for_console\\Messanger_for_console\\Messanger_for_console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
