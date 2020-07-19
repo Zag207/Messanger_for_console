@@ -19,10 +19,12 @@ namespace Messanger_for_console
                 byte[] data = Encoding.UTF8.GetBytes(message);
                 stream = client.GetStream();
                 stream.Write(data, 0, data.Length);
+                Console.WriteLine(message);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
+                Console.ReadLine();
             }
             finally
             {
